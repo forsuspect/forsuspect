@@ -29,13 +29,6 @@
 
 <br>
 
-<div align="center">
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=forsuspect&theme=gotham&hide_border=true&area=true)
-
-</div>
-
-</div>
-
 <hr>
 
 <h3 align='center'>

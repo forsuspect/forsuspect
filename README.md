@@ -3,7 +3,7 @@
 
 <p align="center">
     <br>
-  <a href="https://discord.com/users/432890943226511360" target="_blank">
+  <a href="[![Discord Presence](https://lanyard.cnrad.dev/api/432890943226511360)](https://discord.com/users/432890943226511360)" target="_blank">
     <img width="45%" src="https://lanyard.cnrad.dev/api/432890943226511360?bg=151515&borderRadius=5px" alt="Discord Status"/>
     </a>
 

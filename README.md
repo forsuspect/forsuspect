@@ -23,6 +23,8 @@
 <div style="display: inline_block" align="center">
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-Js" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
+    <img align="center" alt="Rafa-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
+    <img align="center" alt="Rafa-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
 </div>
 
 <br>

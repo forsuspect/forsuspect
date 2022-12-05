@@ -30,7 +30,8 @@
 <br>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=forsuspect&color=green" alt="Profile views" />
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=forsuspect&theme=gotham&hide_border=true&area=true)
+
 </div>
 
 </div>
